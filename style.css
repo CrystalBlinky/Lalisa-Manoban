@@ -1,0 +1,16 @@
+a
+{
+  font-size: 20px;
+  color:#f4a7bb;
+  text-decoration: none;
+  border-style:solid;
+  border-color:#f4a7bb;
+  padding: 8px;
+  border-radius: 20px;
+}
+#changetheme
+{
+  padding:8px;
+  font-size:20px;
+  border-color:#f4a7bb;
+}
